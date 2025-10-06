@@ -1,6 +1,7 @@
 # Roche-Papier-ciseaux
 
 * Contrat Celo : 0xDeDb830D70cE3f687cad36847Ef5b9b96823A9b0
+* Contrat Base : 0xE7e255228EBA6ad9422E7F8E76aB31ffeb8E8b1B
 
 Comment jouer :
 1. Créer votre profil :
