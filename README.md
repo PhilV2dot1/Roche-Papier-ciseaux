@@ -54,4 +54,4 @@ Choix favoris et leur taux de réussite
 Historique complet de toutes vos parties
 Comparaison avec les autres joueurs
 
-C'est parfait pour s'amuser, battre des records, et grimper dans le classement sans utiliser de fonds ! 🎮RetryClaude does not have the ability to run the code it generates yet.Claude can make mistakes. Please double-check responses. Sonnet 4.5
+C'est parfait pour s'amuser, battre des records, et grimper dans le classement sans utiliser de fonds 
